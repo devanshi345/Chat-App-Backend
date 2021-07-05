@@ -1,6 +1,6 @@
 # Chat-App-Backend
 
-Frontend made using: 
+Backend made using: 
 1. NodeJs
 2. ExpressJs
 3. Socket.io
